@@ -1,0 +1,2242 @@
+fileFormatVersion: 2
+guid: de1283d6c19c2624d96709158fe6f79c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6713589486941687334
+    second: MonsterBullet_0
+  - first:
+      213: -8994405186878522010
+    second: MonsterBullet_1
+  - first:
+      213: -7565184350712372679
+    second: MonsterBullet_2
+  - first:
+      213: -2920912462829640927
+    second: MonsterBullet_3
+  - first:
+      213: -6306599603572460042
+    second: MonsterBullet_4
+  - first:
+      213: -2949781688705104940
+    second: MonsterBullet_5
+  - first:
+      213: -5017346961253788166
+    second: MonsterBullet_6
+  - first:
+      213: -4456041565180664994
+    second: MonsterBullet_7
+  - first:
+      213: 1776121313356563900
+    second: MonsterBullet_8
+  - first:
+      213: 1744540462052065196
+    second: MonsterBullet_9
+  - first:
+      213: -2039555635574675017
+    second: MonsterBullet_10
+  - first:
+      213: 6663230604554325182
+    second: MonsterBullet_11
+  - first:
+      213: 2249275788937067420
+    second: MonsterBullet_12
+  - first:
+      213: 7222537287522466554
+    second: MonsterBullet_13
+  - first:
+      213: -1240955747354349286
+    second: MonsterBullet_14
+  - first:
+      213: 3085963974217194556
+    second: MonsterBullet_15
+  - first:
+      213: 8626054908227350944
+    second: MonsterBullet_16
+  - first:
+      213: 1131981870091696668
+    second: MonsterBullet_17
+  - first:
+      213: 3448730521744876518
+    second: MonsterBullet_18
+  - first:
+      213: 3419234836525377030
+    second: MonsterBullet_19
+  - first:
+      213: -1826048177924527936
+    second: MonsterBullet_20
+  - first:
+      213: -1762033792634293935
+    second: MonsterBullet_21
+  - first:
+      213: 7685443490367050645
+    second: MonsterBullet_22
+  - first:
+      213: -3228432157170194200
+    second: MonsterBullet_23
+  - first:
+      213: 7399809115919313283
+    second: MonsterBullet_24
+  - first:
+      213: -6179036670570611586
+    second: MonsterBullet_25
+  - first:
+      213: 4369134651081040344
+    second: MonsterBullet_26
+  - first:
+      213: -2480899169689088231
+    second: MonsterBullet_27
+  - first:
+      213: -5705097260838758389
+    second: MonsterBullet_28
+  - first:
+      213: 1196717024600920484
+    second: MonsterBullet_29
+  - first:
+      213: 8759078109516639388
+    second: MonsterBullet_30
+  - first:
+      213: -6644077128102719847
+    second: MonsterBullet_31
+  - first:
+      213: -4984354705471966434
+    second: MonsterBullet_32
+  - first:
+      213: -9150652517919917187
+    second: MonsterBullet_33
+  - first:
+      213: -7210041600897533066
+    second: MonsterBullet_34
+  - first:
+      213: 6844159327132764258
+    second: MonsterBullet_35
+  - first:
+      213: -213610237943943582
+    second: MonsterBullet_36
+  - first:
+      213: -9025779283570221027
+    second: MonsterBullet_37
+  - first:
+      213: 2029326063867245013
+    second: MonsterBullet_38
+  - first:
+      213: -7648188980848639762
+    second: MonsterBullet_39
+  - first:
+      213: -3814970998928779764
+    second: MonsterBullet_40
+  - first:
+      213: -3672566690216015219
+    second: MonsterBullet_41
+  - first:
+      213: 7445792294072748488
+    second: MonsterBullet_42
+  - first:
+      213: -8309972475921251517
+    second: MonsterBullet_43
+  - first:
+      213: -7256653403584869415
+    second: MonsterBullet_44
+  - first:
+      213: -5507705832361133040
+    second: MonsterBullet_45
+  - first:
+      213: -8302667082569136196
+    second: MonsterBullet_46
+  - first:
+      213: 2000469730637140932
+    second: MonsterBullet_47
+  - first:
+      213: 6481642510921710188
+    second: MonsterBullet_48
+  - first:
+      213: 1433643649017816893
+    second: MonsterBullet_49
+  - first:
+      213: 429466704991414586
+    second: MonsterBullet_50
+  - first:
+      213: -1250705909438294111
+    second: MonsterBullet_51
+  - first:
+      213: -8892952634349556615
+    second: MonsterBullet_52
+  - first:
+      213: 1349761793620166232
+    second: MonsterBullet_53
+  - first:
+      213: 5210771810912904100
+    second: MonsterBullet_54
+  - first:
+      213: -8068972530378506979
+    second: MonsterBullet_55
+  - first:
+      213: 4163501240234531236
+    second: MonsterBullet_56
+  - first:
+      213: 1214644942933553326
+    second: MonsterBullet_57
+  - first:
+      213: -8797742315955392462
+    second: MonsterBullet_58
+  - first:
+      213: -7937867594857086128
+    second: MonsterBullet_59
+  - first:
+      213: 2527777734018408636
+    second: MonsterBullet_60
+  - first:
+      213: 916443400332411383
+    second: MonsterBullet_61
+  - first:
+      213: 6622998956914817168
+    second: MonsterBullet_62
+  - first:
+      213: -7476225024723147809
+    second: MonsterBullet_63
+  - first:
+      213: -3129384997050303071
+    second: MonsterBullet_64
+  - first:
+      213: -5811529668158847865
+    second: MonsterBullet_65
+  - first:
+      213: 8854217497310933777
+    second: MonsterBullet_66
+  - first:
+      213: 6004903735705877724
+    second: MonsterBullet_67
+  - first:
+      213: -3624609091729417582
+    second: MonsterBullet_68
+  - first:
+      213: -5464810775277461724
+    second: MonsterBullet_69
+  - first:
+      213: 9020052394323019659
+    second: MonsterBullet_70
+  - first:
+      213: 3736893511086346738
+    second: MonsterBullet_71
+  - first:
+      213: 6879726467380518489
+    second: MonsterBullet_72
+  - first:
+      213: -4029334211852551771
+    second: MonsterBullet_73
+  - first:
+      213: 5140061297350540087
+    second: MonsterBullet_74
+  - first:
+      213: -1266461592927269262
+    second: MonsterBullet_75
+  - first:
+      213: -1541302863362671928
+    second: MonsterBullet_76
+  - first:
+      213: -3782993191358390374
+    second: MonsterBullet_77
+  - first:
+      213: -4731413470963428206
+    second: MonsterBullet_78
+  - first:
+      213: 4317407659425966151
+    second: MonsterBullet_79
+  - first:
+      213: -7770806234478809965
+    second: MonsterBullet_80
+  - first:
+      213: 4177658260934776476
+    second: MonsterBullet_81
+  - first:
+      213: -6639416231859800087
+    second: MonsterBullet_82
+  - first:
+      213: -2946657368371116467
+    second: MonsterBullet_83
+  - first:
+      213: 4434581726899967721
+    second: MonsterBullet_84
+  - first:
+      213: 408947160500241817
+    second: MonsterBullet_85
+  - first:
+      213: 7776761214785313445
+    second: MonsterBullet_86
+  - first:
+      213: 6831260291409628532
+    second: MonsterBullet_87
+  - first:
+      213: -1603890513368898068
+    second: MonsterBullet_88
+  - first:
+      213: 7852192361025161942
+    second: MonsterBullet_89
+  - first:
+      213: -2572734540371857758
+    second: MonsterBullet_90
+  - first:
+      213: -4082150986457033958
+    second: MonsterBullet_91
+  - first:
+      213: -2356543138439198063
+    second: MonsterBullet_92
+  - first:
+      213: 5717742249818971763
+    second: MonsterBullet_93
+  - first:
+      213: 1260114989804862631
+    second: MonsterBullet_94
+  - first:
+      213: 4953618658047919493
+    second: MonsterBullet_95
+  - first:
+      213: -883816528628361017
+    second: MonsterBullet_96
+  - first:
+      213: -8969713327668442312
+    second: MonsterBullet_97
+  - first:
+      213: -7924407983122929934
+    second: MonsterBullet_98
+  - first:
+      213: 5070585224557764988
+    second: MonsterBullet_99
+  - first:
+      213: -3389844342035265344
+    second: MonsterBullet_100
+  - first:
+      213: -5277783688721665891
+    second: MonsterBullet_101
+  - first:
+      213: -6786003284082348914
+    second: MonsterBullet_102
+  - first:
+      213: -5711121184766222146
+    second: MonsterBullet_103
+  - first:
+      213: 3262114370160810143
+    second: MonsterBullet_104
+  - first:
+      213: -1118757832287490313
+    second: MonsterBullet_105
+  - first:
+      213: -4888614191236728138
+    second: MonsterBullet_106
+  - first:
+      213: 4652760334129303073
+    second: MonsterBullet_107
+  - first:
+      213: -2900416568785983214
+    second: MonsterBullet_108
+  - first:
+      213: 7094533150144549190
+    second: MonsterBullet_109
+  - first:
+      213: -7168073731633721221
+    second: MonsterBullet_110
+  - first:
+      213: -4789383771425626483
+    second: MonsterBullet_111
+  - first:
+      213: 4747400756183379215
+    second: MonsterBullet_112
+  - first:
+      213: 1049747654442314906
+    second: MonsterBullet_113
+  - first:
+      213: 2549161619140584626
+    second: MonsterBullet_114
+  - first:
+      213: 2517405233461648722
+    second: MonsterBullet_115
+  - first:
+      213: 8157904520270834720
+    second: MonsterBullet_116
+  - first:
+      213: -696817185392806319
+    second: MonsterBullet_117
+  - first:
+      213: 959382418685971860
+    second: MonsterBullet_118
+  - first:
+      213: -6968204378282810616
+    second: MonsterBullet_119
+  - first:
+      213: 4434445434262019227
+    second: MonsterBullet_120
+  - first:
+      213: 3662936948108793195
+    second: MonsterBullet_121
+  - first:
+      213: 1099162669393907003
+    second: MonsterBullet_122
+  - first:
+      213: -8864204676693471327
+    second: MonsterBullet_123
+  - first:
+      213: -1506836837765308402
+    second: MonsterBullet_124
+  - first:
+      213: 2084306842057937395
+    second: MonsterBullet_125
+  - first:
+      213: 558525503176013062
+    second: MonsterBullet_126
+  - first:
+      213: 5460634192337703484
+    second: MonsterBullet_127
+  - first:
+      213: -7606323609679248879
+    second: MonsterBullet_128
+  - first:
+      213: 7663839175368284316
+    second: MonsterBullet_129
+  - first:
+      213: 1763823768649995914
+    second: MonsterBullet_130
+  - first:
+      213: 4422493155592518064
+    second: MonsterBullet_131
+  - first:
+      213: -406946079613427726
+    second: MonsterBullet_132
+  - first:
+      213: -516221467553324898
+    second: MonsterBullet_133
+  - first:
+      213: 8350791399730467511
+    second: MonsterBullet_134
+  - first:
+      213: -8281932674445704847
+    second: MonsterBullet_135
+  - first:
+      213: -2210125254550329849
+    second: MonsterBullet_136
+  - first:
+      213: -1504983684907200782
+    second: MonsterBullet_137
+  - first:
+      213: 3070128001471597761
+    second: MonsterBullet_138
+  - first:
+      213: 1348291605439042819
+    second: MonsterBullet_139
+  - first:
+      213: 2560681776526517049
+    second: MonsterBullet_140
+  - first:
+      213: 3463079658745272561
+    second: MonsterBullet_141
+  - first:
+      213: 8012240891243510132
+    second: MonsterBullet_142
+  - first:
+      213: 5578144337667747397
+    second: MonsterBullet_143
+  - first:
+      213: -6299689208384699653
+    second: MonsterBullet_144
+  - first:
+      213: 2984494193823106088
+    second: MonsterBullet_145
+  - first:
+      213: 155735418473924017
+    second: MonsterBullet_146
+  - first:
+      213: 4580528325753429339
+    second: MonsterBullet_147
+  - first:
+      213: -1602497622502255900
+    second: MonsterBullet_148
+  - first:
+      213: -393410089698199013
+    second: MonsterBullet_149
+  - first:
+      213: -605907317830232665
+    second: MonsterBullet_150
+  - first:
+      213: 2626095255594176607
+    second: MonsterBullet_151
+  - first:
+      213: 1712035601250118521
+    second: MonsterBullet_152
+  - first:
+      213: 9085257292229295662
+    second: MonsterBullet_153
+  - first:
+      213: 3269127729368732648
+    second: MonsterBullet_154
+  - first:
+      213: -6450097538711845562
+    second: MonsterBullet_155
+  - first:
+      213: -7131163634086067102
+    second: MonsterBullet_156
+  - first:
+      213: 1132542355699800477
+    second: MonsterBullet_157
+  - first:
+      213: 6529246062353467398
+    second: MonsterBullet_158
+  - first:
+      213: -2704626712729118373
+    second: MonsterBullet_159
+  - first:
+      213: 1863801678099352794
+    second: MonsterBullet_160
+  - first:
+      213: -7639433865294277091
+    second: MonsterBullet_161
+  - first:
+      213: 9127959381402066918
+    second: MonsterBullet_162
+  - first:
+      213: 5884802534561276572
+    second: MonsterBullet_163
+  - first:
+      213: -7970996836342005945
+    second: MonsterBullet_164
+  - first:
+      213: -6365275103806570387
+    second: MonsterBullet_165
+  - first:
+      213: 6606856122695311942
+    second: MonsterBullet_166
+  - first:
+      213: -5094802752071859
+    second: MonsterBullet_167
+  - first:
+      213: -3414163833174012859
+    second: MonsterBullet_168
+  - first:
+      213: -2066444497949158941
+    second: MonsterBullet_169
+  - first:
+      213: 845360581892350388
+    second: MonsterBullet_170
+  - first:
+      213: 2225987389762709018
+    second: MonsterBullet_171
+  - first:
+      213: -5880427481306033481
+    second: MonsterBullet_172
+  - first:
+      213: 3502617681389372270
+    second: MonsterBullet_173
+  - first:
+      213: -1277899195188196890
+    second: MonsterBullet_174
+  - first:
+      213: -8983743070573469822
+    second: MonsterBullet_175
+  - first:
+      213: 7293300103988992405
+    second: MonsterBullet_176
+  - first:
+      213: -1890683760891223910
+    second: MonsterBullet_177
+  - first:
+      213: -9083101159376732146
+    second: MonsterBullet_178
+  - first:
+      213: -674113589123433330
+    second: MonsterBullet_179
+  - first:
+      213: 8786886255368877906
+    second: MonsterBullet_180
+  - first:
+      213: -8991452702911912968
+    second: MonsterBullet_181
+  - first:
+      213: -858840624580839706
+    second: MonsterBullet_182
+  - first:
+      213: -724813153989353157
+    second: MonsterBullet_183
+  - first:
+      213: -2283606220886172622
+    second: MonsterBullet_184
+  - first:
+      213: -7816997603944568930
+    second: MonsterBullet_185
+  - first:
+      213: 1755291977567350006
+    second: MonsterBullet_186
+  - first:
+      213: -7309563320103754350
+    second: MonsterBullet_187
+  - first:
+      213: -7648179022531246833
+    second: MonsterBullet_188
+  - first:
+      213: 4480418734854649053
+    second: MonsterBullet_189
+  - first:
+      213: -2528948447740017167
+    second: MonsterBullet_190
+  - first:
+      213: -3539339119735572351
+    second: MonsterBullet_191
+  - first:
+      213: -3509586241414777339
+    second: MonsterBullet_192
+  - first:
+      213: -3349370880672326402
+    second: MonsterBullet_193
+  - first:
+      213: 4540643217396350140
+    second: MonsterBullet_194
+  - first:
+      213: -5432963434034007347
+    second: MonsterBullet_195
+  - first:
+      213: 4864192141567335275
+    second: MonsterBullet_196
+  - first:
+      213: 3173324927862063387
+    second: MonsterBullet_197
+  - first:
+      213: 1359572176265997388
+    second: MonsterBullet_198
+  - first:
+      213: -5904901230210928231
+    second: MonsterBullet_199
+  - first:
+      213: -7362580249058893239
+    second: MonsterBullet_200
+  - first:
+      213: -5146868326338768981
+    second: MonsterBullet_201
+  - first:
+      213: -8862110983798893370
+    second: MonsterBullet_202
+  - first:
+      213: -8843318850872712935
+    second: MonsterBullet_203
+  - first:
+      213: 5055236844174196202
+    second: MonsterBullet_204
+  - first:
+      213: -2469703279070766667
+    second: MonsterBullet_205
+  - first:
+      213: -2099637585450608501
+    second: MonsterBullet_206
+  - first:
+      213: 4833510233105130132
+    second: MonsterBullet_207
+  - first:
+      213: 7462318444163818096
+    second: MonsterBullet_208
+  - first:
+      213: 6619657319843195881
+    second: MonsterBullet_209
+  - first:
+      213: -7340406815931494919
+    second: MonsterBullet_210
+  - first:
+      213: -3560092093613157331
+    second: MonsterBullet_211
+  - first:
+      213: -7927260586101140716
+    second: MonsterBullet_212
+  - first:
+      213: -5130936604052736677
+    second: MonsterBullet_213
+  - first:
+      213: 5338884110913191740
+    second: MonsterBullet_214
+  - first:
+      213: 271573959091373308
+    second: MonsterBullet_215
+  - first:
+      213: 1025758811546436311
+    second: MonsterBullet_216
+  - first:
+      213: 1208450622160275542
+    second: MonsterBullet_217
+  - first:
+      213: -8910699966441794242
+    second: MonsterBullet_218
+  - first:
+      213: 4132952292114389354
+    second: MonsterBullet_219
+  - first:
+      213: -1155096227594695834
+    second: MonsterBullet_220
+  - first:
+      213: -3706253308098678419
+    second: MonsterBullet_221
+  - first:
+      213: -3297963169583581227
+    second: MonsterBullet_222
+  - first:
+      213: -5571613983775965812
+    second: MonsterBullet_223
+  - first:
+      213: -2379235625281302447
+    second: MonsterBullet_224
+  - first:
+      213: 869437845790952392
+    second: MonsterBullet_225
+  - first:
+      213: 3051810247497666027
+    second: MonsterBullet_226
+  - first:
+      213: -1639023062958837164
+    second: MonsterBullet_227
+  - first:
+      213: -8083014127995440096
+    second: MonsterBullet_228
+  - first:
+      213: 7105031142684011479
+    second: MonsterBullet_229
+  - first:
+      213: -9032253022071711850
+    second: MonsterBullet_230
+  - first:
+      213: -8200595215628691150
+    second: MonsterBullet_231
+  - first:
+      213: 2329551643447534733
+    second: MonsterBullet_232
+  - first:
+      213: -7215917290684528880
+    second: MonsterBullet_233
+  - first:
+      213: -3159190566223233158
+    second: MonsterBullet_234
+  - first:
+      213: 1461509644009770935
+    second: MonsterBullet_235
+  - first:
+      213: -7726911039405093307
+    second: MonsterBullet_236
+  - first:
+      213: -5983816124963966712
+    second: MonsterBullet_237
+  - first:
+      213: -5162291373484508847
+    second: MonsterBullet_238
+  - first:
+      213: 7561914884404436524
+    second: MonsterBullet_239
+  - first:
+      213: 9064051252523282089
+    second: MonsterBullet_240
+  - first:
+      213: -165215428518095525
+    second: MonsterBullet_241
+  - first:
+      213: 8146306024720508788
+    second: MonsterBullet_242
+  - first:
+      213: -2363447440405710268
+    second: MonsterBullet_243
+  - first:
+      213: -7976151077442701847
+    second: MonsterBullet_244
+  - first:
+      213: -8629697566687371061
+    second: MonsterBullet_245
+  - first:
+      213: 6707745269090622004
+    second: MonsterBullet_246
+  - first:
+      213: -9073342901961508528
+    second: MonsterBullet_247
+  - first:
+      213: -4138923163750937919
+    second: MonsterBullet_248
+  - first:
+      213: 1287729438705720140
+    second: MonsterBullet_249
+  - first:
+      213: 3382926766195663963
+    second: MonsterBullet_250
+  - first:
+      213: 9033581805763081700
+    second: MonsterBullet_251
+  - first:
+      213: -8425271416326473262
+    second: MonsterBullet_252
+  - first:
+      213: 7892480699578951874
+    second: MonsterBullet_253
+  - first:
+      213: -1854659920983462420
+    second: MonsterBullet_254
+  - first:
+      213: -2818802034748165089
+    second: MonsterBullet_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonsterBullet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ec4f871167b2d50800000000000000
+      internalID: 6713589486941687334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dbc2e03247d2380800000000000000
+      internalID: -8994405186878522010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932e1734ae0130790800000000000000
+      internalID: -7565184350712372679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12327093795d677d0800000000000000
+      internalID: -2920912462829640927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5b17803157a78a0800000000000000
+      internalID: -6306599603572460042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c7c7ce254017d0800000000000000
+      internalID: -2949781688705104940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af51593958dce5ab0800000000000000
+      internalID: -5017346961253788166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53e70b3ec5f822c0800000000000000
+      internalID: -4456041565180664994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb54e989cec06a810800000000000000
+      internalID: 1776121313356563900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafb8e8ae4ad53810800000000000000
+      internalID: 1744540462052065196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9ece994fa02b3e0800000000000000
+      internalID: -2039555635574675017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc8f87eec887c50800000000000000
+      internalID: 6663230604554325182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfa71b968073f10800000000000000
+      internalID: 2249275788937067420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa3ac7756b9b3460800000000000000
+      internalID: 7222537287522466554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f6f8925d37cee0800000000000000
+      internalID: -1240955747354349286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c5ed862eb83da20800000000000000
+      internalID: 3085963974217194556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1f7e97c37e5b770800000000000000
+      internalID: 8626054908227350944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a7ffa638b95bf00800000000000000
+      internalID: 1131981870091696668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3a6aa232a5cdf20800000000000000
+      internalID: 3448730521744876518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6066cbac7ff837f20800000000000000
+      internalID: 3419234836525377030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c82f046bd298a6e0800000000000000
+      internalID: -1826048177924527936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1517ccbe99ffb87e0800000000000000
+      internalID: -1762033792634293935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5939aa0a22e28aa60800000000000000
+      internalID: 7685443490367050645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82c6ade0e4233d0800000000000000
+      internalID: -3228432157170194200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38961106f2761b660800000000000000
+      internalID: 7399809115919313283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cb684d2e6af3aa0800000000000000
+      internalID: -6179036670570611586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1298501d842ac30800000000000000
+      internalID: 4369134651081040344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fce1b7953129dd0800000000000000
+      internalID: -2480899169689088231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08d6a6a44c63d0b0800000000000000
+      internalID: -5705097260838758389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1100c1bc79b9010800000000000000
+      internalID: 1196717024600920484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca3ad022f7e8970800000000000000
+      internalID: 8759078109516639388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ec327cd0f7bc3a0800000000000000
+      internalID: -6644077128102719847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13fbc9bdc304dab0800000000000000
+      internalID: -4984354705471966434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b7956640a520180800000000000000
+      internalID: -9150652517919917187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bb6ba4d59c0fb90800000000000000
+      internalID: -7210041600897533066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268cce765a65bfe50800000000000000
+      internalID: 6844159327132764258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ee6fece9a190df0800000000000000
+      internalID: -213610237943943582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10a7bdef8dfdb280800000000000000
+      internalID: -9025779283570221027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1bf32ad4d992c10800000000000000
+      internalID: 2029326063867245013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c57dc4ac2cd590800000000000000
+      internalID: -7648188980848639762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06de6cc6108e0bc0800000000000000
+      internalID: -3814970998928779764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0eb7ad0c680dc0800000000000000
+      internalID: -3672566690216015219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c90c8754a4c45760800000000000000
+      internalID: 7445792294072748488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343c07faf0c0dac80800000000000000
+      internalID: -8309972475921251517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc1354d203b4b90800000000000000
+      internalID: -7256653403584869415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c74cef9b2b093b0800000000000000
+      internalID: -5507705832361133040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7432f174007cc80800000000000000
+      internalID: -8302667082569136196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35c8efe9813cb10800000000000000
+      internalID: 2000469730637140932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a3f80c58b63f950800000000000000
+      internalID: 6481642510921710188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37a3329d4355e310800000000000000
+      internalID: 1433643649017816893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39eed951b5c5f500800000000000000
+      internalID: 429466704991414586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d2751a9994aee0800000000000000
+      internalID: -1250705909438294111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c683922b2e59480800000000000000
+      internalID: -8892952634349556615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856cf1033315bb210800000000000000
+      internalID: 1349761793620166232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3251baa51605840800000000000000
+      internalID: 5210771810912904100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d77602c30450090800000000000000
+      internalID: -8068972530378506979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9d31e915ab7c930800000000000000
+      internalID: 4163501240234531236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea077cfd3294bd010800000000000000
+      internalID: 1214644942933553326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307e00e9f328e580800000000000000
+      internalID: -8797742315955392462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0538576aa7707d190800000000000000
+      internalID: -7937867594857086128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb02f43d478741320800000000000000
+      internalID: 2527777734018408636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f18095ca6cd7bc00800000000000000
+      internalID: 916443400332411383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b0be067e99eb50800000000000000
+      internalID: 6622998956914817168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBullet_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3ad7463fc1f3890800000000000000
+      internalID: -7476225024723147809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

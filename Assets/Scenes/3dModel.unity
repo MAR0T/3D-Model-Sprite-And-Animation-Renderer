@@ -178,6 +178,14 @@ PrefabInstance:
       propertyPath: Model
       value: 
       objectReference: {fileID: 811036772}
+    - target: {fileID: 666121199846860069, guid: 9d874ff0580703341b1b8c52220c0f8f, type: 3}
+      propertyPath: framesPerXSide
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 666121199846860069, guid: 9d874ff0580703341b1b8c52220c0f8f, type: 3}
+      propertyPath: framesPerYSide
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 666121199846860070, guid: 9d874ff0580703341b1b8c52220c0f8f, type: 3}
       propertyPath: m_Name
       value: RenderTextureCamera
@@ -641,6 +649,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: AsteroidModel1
       objectReference: {fileID: 0}
+    - target: {fileID: 3121362700864536384, guid: 30e4a2a967335f240923b3d8a7805ace, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3121362700864536387, guid: 30e4a2a967335f240923b3d8a7805ace, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -1059,7 +1071,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2729327895668056279, guid: 802bab963cd0f3849869e2e9213697cc, type: 3}
       propertyPath: m_Intensity
-      value: 2
+      value: 1.34
       objectReference: {fileID: 0}
     - target: {fileID: 2729327895668056279, guid: 802bab963cd0f3849869e2e9213697cc, type: 3}
       propertyPath: m_BounceIntensity
