@@ -1,4 +1,4 @@
-# 3D-Model-Sprite-And-Animation-Renderer
+# 3D Model Sprite and Animation Renderer
 
 This Unity project allows rendering of your 3D model to a flat sprite, which can be used in your 2D game.
 It also allows rendering a spritesheet of your 3D model during rotation.
