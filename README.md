@@ -53,3 +53,7 @@ Model - game object you want to rotate
 Rotate X/Y/Z - rotation axis
 
 Frames per X/Y Side - number of images in spritesheet on specific axis. It is best for further use in Unity when render texture width multiplied by number of frames per X axis and render texture height multiplied by number of frames per Y axis is the power of 2. 
+
+## License
+
+Project is released under MIT License.
