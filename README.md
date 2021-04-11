@@ -1,12 +1,15 @@
 # 3D Model Sprite and Animation Renderer
 
 This Unity project allows rendering of your 3D model to a flat sprite, which can be used in your 2D game.
+
 It also allows rendering a spritesheet of your 3D model during rotation.
 
 I created models using ProBuilder and used renders in my Starbase Destroyer game which is available on:
 
 * https://marot.itch.io/starbase-destroyer
 * https://simmer.io/@Marot/starbase-destroyer
+
+These models and renders are left in this project as the examples.
 
 ## Thing you may want to modify
 
