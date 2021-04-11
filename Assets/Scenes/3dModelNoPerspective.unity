@@ -3409,7 +3409,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 51702579043976284, guid: 4cfb85bdd0b3ba14483621afbc100cc6, type: 3}
       propertyPath: m_Name
-      value: RenderTexture2dCamera
+      value: RenderTextureCamera
       objectReference: {fileID: 0}
     - target: {fileID: 51702579043976286, guid: 4cfb85bdd0b3ba14483621afbc100cc6, type: 3}
       propertyPath: m_RootOrder
